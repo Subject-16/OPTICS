@@ -7,5 +7,4 @@ while(~isempty(nanIDX))
   nanIDX      = find(isnan(a));
 end
 
-
 end
